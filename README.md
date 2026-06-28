@@ -1,3 +1,6 @@
-使用 Vue 3 + TypeScript 開發 Todo 任務管理應用，具備新增、刪除、狀態切換與篩選功能，並透過 computed 與 watch 實現資料管理與 localStorage 持久化，採元件化設計提升可維護性
-
-請進cmd去連結對應資料夾位置後輸入 npm run dev
+Todo App（Vue3 + TypeScript）
+• 使用 Vue3 Composition API 與 TypeScript 開發
+• 採用 Component 元件化架構提升程式可維護性
+• 實作任務新增、刪除、篩選及完成狀態管理
+• 使用 LocalStorage 完成資料持久化
+• 完成響應式介面設計，支援不同裝置瀏覽
