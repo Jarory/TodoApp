@@ -1,4 +1,4 @@
-Todo App（Vue3 + TypeScript）  
+**Todo App（Vue3 + TypeScript）**
 
 • 使用 Vue3 Composition API 與 TypeScript 開發  
 
